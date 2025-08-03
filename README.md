@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **HTML ,CSS and JS, React, Nodejs**
+- 💬 Ask me about **React , Java**
 
 - 📫 How to reach me **bansalmansi622@gmail.com**
 
